@@ -19,7 +19,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'YunjieLEI', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || 'A graduated student in Chemical Engineering and Material Science who is seeking opportunities to explore, learn and improve.', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://yunjieworld.vercel.app/', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.yunjiepersonnel.info', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, Record', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'yunjie.personnel@gmail.com', // 邮箱地址 例如mail@tangly1024.com
